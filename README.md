@@ -1,6 +1,6 @@
 # Mon Premier Agent IA
 
-Projet réalisé dans le cadre du **Module 3 — Agents, MCP et génération d'images en local** (NOUVY Academy).
+Projet réalisé dans le cadre du **Module 3 — Agents, MCP et génération d'images en local** .
 
 Deux ateliers pratiques construits from scratch en Python :
 
@@ -137,5 +137,5 @@ Fichier : `C:\Users\<user>\.cursor\mcp.json` — même format JSON.
 
 ## Auteur
 
-**Prince Essani** — étudiant DAD 3ème année, ESTIAM Paris  
+**Prince Essani** — étudiant DAD 3ème année, ESTIAM Lyon  
 [GitHub](https://github.com/Prince-ESSANI)
