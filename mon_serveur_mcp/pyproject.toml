@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "mon-serveur-mcp"
+version = "1.0.0"
+description = "Serveur MCP avec outils météo et analyse de projet"
+requires-python = ">=3.11"
+dependencies = ["mcp"]
+
+[project.scripts]
+mon-serveur-mcp = "server:main"
